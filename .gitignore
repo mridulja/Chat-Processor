@@ -1,5 +1,4 @@
 # Google Cloud credentials
-*.json
 !package.json
 !package-lock.json
 ywca-chatanalyzer-e829d0e72c29.json
